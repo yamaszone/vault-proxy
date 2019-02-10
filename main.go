@@ -1,7 +1,7 @@
 package main
 
 import (
-	"./server"
+	"vault-proxy/server"
 )
 
 func main() {
